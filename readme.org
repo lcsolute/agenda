@@ -1,0 +1,37 @@
+#+title: Agenda
+#+author: lcsolute
+#+startup: overview
+
+* Plan on Janua
+** 13st [1/8]
+- [ ] Learning Golang in less than 3 hours
+- [ ] Learning Algorithm in less than 3 hours
+- [ ] Memorizing words in less than 1 hour
+- [X] Learning Org Mode in less than 1 hour
+- [ ] Reading Atom Habits in less than 2 hours
+- [ ] Creating a github for managing own agenda
+- [ ] and more in the further future
+- [ ] Conclusion
+* Overview
+** TODO [#A] Learning Golang [/]
+** TODO [#A] Learning Algorithm [/]
+** TODO [#B] Memorizing words [5795/10000]
+** TODO [#C] Reading Atom Habits
+** HOLD [#C] Learning Org Mode [0/2]
+*** HOLD [#C] Reading Org Mode Compact Guide [3/15]
+1. [X] Introduction
+2. [X] Document Structure
+3. [ ] Tables
+4. [ ] Hyperlinks
+5. [X] TODO Items
+6. [ ] Tags
+7. [ ] Properties
+8. [ ] Dates and Times
+9. [ ] Capture, Refile, Archive
+10. [ ] Agenda Views
+11. [ ] Markup for Rich Contents
+12. [ ] Exporting
+13. [ ] Publishing
+14. [ ] Working with Source Code
+15. [ ] Miscellaneous
+*** TODO Reading [[HOLD 'https://blog.jethro.dev/posts/how_to_take_smart_notes_org/][How to Take Smart Notes With org-mode]]
